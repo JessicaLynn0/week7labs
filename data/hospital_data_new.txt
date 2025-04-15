@@ -1,0 +1,1 @@
+HospitalID	Name	Zip	TypeControl	Teaching	DonorType	NoFTE	NetPatRev	InOperExp	OutOperExp	OperRev	OperInc	AvlBeds	LastName	FirstName	Gender	PositionTitle	Compensation	MaxTerm	StartDate	Phone	Email
